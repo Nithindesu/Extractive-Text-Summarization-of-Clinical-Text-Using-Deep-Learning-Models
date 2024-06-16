@@ -1,0 +1,2 @@
+# Extractive-Text-Summarization-of-Clinical-Text-Using-Deep-Learning-Models
+This project trained transformer and deep learning models on PubMed clinical texts for improved summarization and information retrieval. Using ROUGE scores for evaluation, the models were compared to identify the most effective one. The results aim to enhance access to critical information for researchers and healthcare professionals.
